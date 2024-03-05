@@ -1,4 +1,14 @@
 # calculator/calculations.py
+# calculator/calculations.py
+
+"""Provide sample math calculations.
+
+This module allows the user to make mathematical calculations.
+
+The module contains the following functions:
+
+- `add(a, b)` - Returns the sum of two numbers.
+"""
 
 def add(a, b):
     """Computes and  Returns the sum of `a` and `b`.
